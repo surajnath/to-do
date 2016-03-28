@@ -1,0 +1,127 @@
+
+.row-width{
+  width: 5em !important;
+}
+
+.title-width{
+  width: 25em !important;
+}
+
+.text-align-center{
+  text-align: center;
+}
+
+.text-align-left{
+  text-align: left;
+}
+
+.header-style{
+  background-color: #03a9f4;
+    color: rgba(255,255,255,.84);
+    min-height: 6em;
+}
+
+.section-add{
+      margin: 3em 0em;
+}
+
+.jumbotron-style{
+  width: 50em;
+margin: 0 auto;
+}
+
+.list-item-margin{
+  margin-bottom: -25px !important;
+}
+
+.fab-min-style{
+  height: 40px !important;
+    min-width: 40px !important;
+    width: 40px !important;
+}
+
+.checkbox input[type=checkbox]:checked+.checkbox-material .check {
+    color: #03a9f4 !important;
+    border-color: #03a9f4 !important;
+}
+
+.checkbox input[type=checkbox]:checked+.checkbox-material .check:before{
+  color: #03a9f4 !important;
+}
+
+.bg-img{
+      background-image: url('../img/photography.png');
+          height: 700px;
+}
+
+.font-style{
+  font-size: 17px !important;
+}
+
+.modal-dialog {
+    width: 600px;
+    margin: 130px auto !important;
+}
+
+.modal-header-style{
+  background-color: #03a9f4;
+    color: rgba(255,255,255,.84);
+    min-height: 5em;
+        border-radius: inherit;
+}
+
+.close-button{
+  color: #FFF;
+text-shadow: 0 1px 0 #000;
+opacity: 0.9;
+}
+
+.form-group.form-group-sm.label-floating label.control-label, .form-group.form-group-sm.label-placeholder label.control-label {
+    top: -18px;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+.date-picker-div{
+  margin: 2.5em 0em;
+}
+
+.date-label{
+  font-weight: 300;
+}
+
+.btn, .input-group-btn .btn {
+    border: none;
+    border-radius: 2px;
+    position: relative;
+    padding: 8px 30px;
+    margin: 0px 0px;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    will-change: box-shadow,transform;
+    -webkit-transition: -webkit-box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1);
+    -o-transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1);
+    transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1);
+    outline: 0;
+    cursor: pointer;
+    text-decoration: none;
+    background: 0 0;
+}
+
+.modal-content .modal-footer {
+    border-top: none;
+    padding: 24px;
+}
+
+.input-date-style{
+    border-radius: 0%;
+    padding: 3px;
+    text-align: center;
+    width: 100px;
+    margin-left: 2em;
+    border: 1px solid #BDBDBD;
+    border-radius: 15px;
+}
